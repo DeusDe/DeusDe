@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=deusde&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deusde&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deusde&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
